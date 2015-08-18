@@ -10,3 +10,7 @@
  Tags:         dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  hemingway-child
 */
+
+.blog-menu .current-page-ancestor > a {
+    color: #fff;
+}
