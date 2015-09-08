@@ -14,3 +14,18 @@
 .blog-menu .current-page-ancestor > a {
     color: #fff;
 }
+
+@font-face {
+    font-family: 'MassEffect';
+    src: url('fonts/mass_effect-webfont.eot');
+    src: url('fonts/mass_effect-webfont.woff') format('woff'),
+         url('fonts/mass_effect-webfont.ttf') format('truetype'),
+         url('fonts/mass_effect-webfont.svg#SliderRegular') format('svg');
+}
+
+h2.post-title,
+.post-content h1,
+.post-content h2,
+.post-content h3, {
+    font-family: 'MassEffect', Lato, sans-serif;
+}
